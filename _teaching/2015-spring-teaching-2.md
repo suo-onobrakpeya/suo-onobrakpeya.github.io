@@ -1,7 +1,5 @@
 ---
 title: "English Teacher"
 collection: teaching
-venue: "Hualien, Taiwan"
+location: "Hualien, Taiwan, 2022-2023"
 ---
-
-October 2022 to January 2023

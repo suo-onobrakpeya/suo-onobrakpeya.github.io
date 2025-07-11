@@ -1,8 +1,5 @@
 ---
 title: "Biology Teacher"
 collection: teaching
-venue: "St. Teresa's College, Nigeria"
+location: "St. Teresa's College, Nigeria, 2018-2019"
 ---
-
-October 2018 to July 2019
-======
