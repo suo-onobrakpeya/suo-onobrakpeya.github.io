@@ -1,5 +1,5 @@
 ---
 title: "English Teacher"
 collection: teaching
-location: "Hualien, Taiwan, 2022-2023"
+venue: "Hualien, Taiwan, 2022-2023"
 ---
