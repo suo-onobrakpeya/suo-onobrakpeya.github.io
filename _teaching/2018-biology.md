@@ -1,7 +1,7 @@
 ---
-title: "Biology Teacher"
+title: "Teaching Assistant"
 collection: teaching
-type: "Secondary school subject"
-venue: "St. Teresa's College, Nigeria"
-date: 2018-01-01
+type: "Undergraduate courses"
+venue: "Tzu Chi University, Taiwan"
+date: 2023-01-01
 ---
