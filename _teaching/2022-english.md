@@ -1,7 +1,7 @@
 ---
 title: "English Teacher"
 collection: teaching
-type: "Home tutoring"
+type: "Elementary school teaching ; Home tutoring"
 venue: "Hualien, Taiwan"
-date: 2022-01-01
+date: 2023-01-01
 ---
